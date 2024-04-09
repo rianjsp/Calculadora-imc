@@ -15,11 +15,3 @@ Aprendendo de maneira mais organizada as funcionalidades do javaScript, organiza
 ## Autor
 
 - [@rianjsp](https://github.com/rianjsp)
-
-
-```bash
-  git clone https://github.com/rianjsp/modelo
-```
-
-
-
